@@ -1,4 +1,4 @@
-<h1 align="center">Maratona Explorer - <span style="color: #000">Vou 📝 Vou adivinhar seu destino!</span></h1>
+<h1 align="center">Maratona Explorer - <span style="color: #000"> Vou adivinhar seu destino!</span></h1>
 
 <p align="center">Esse projeto foi desenvolvido durante a maratona explorer da rocketseat, funcionalidade simples, </p>
 <p align="center">porém o que me deixou entusiasmado foi a conexão com a comunidade no discord, tirando duvidas, ajudando, </p>
